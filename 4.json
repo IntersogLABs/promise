@@ -1,0 +1,3 @@
+{
+	"text": "Finally, the core Promises/A+ specification does not deal with how to create, fulfill, or reject promises, choosing instead to focus on providing an interoperable then method. Future work in companion specifications may touch on these subjects."
+}
